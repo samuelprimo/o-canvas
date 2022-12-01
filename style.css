@@ -1,0 +1,23 @@
+.content {
+    background-image: url('./assets/background.png');
+    background-size: fixed;
+
+    
+}
+
+
+.blur {
+    background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(4px);
+    height: 100vh;
+      width: 100%;
+    text-align: center;
+
+  }
+
+  .🚀{
+    width: 15vh;
+    height: 15vh;
+    
+
+  }
