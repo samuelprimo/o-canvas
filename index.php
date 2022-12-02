@@ -95,7 +95,7 @@
 
 <div class="container mt-5 mx-auto">
             <div class="bg-light p-5 rounded">
-                <h2 class="text-center mb-4">Participe da nossa Newsletter</h2>
+                <?php echo'<h2 class="text-center mb-4">Participe da nossa Newsletter</h2>';?>
                 <form action="inserirDados.php" method="POST">
                     <div class="row mb-3">
                         <label for="nome" class="col-sm-2 col-form-label">Nome:</label>
