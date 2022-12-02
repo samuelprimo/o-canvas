@@ -113,32 +113,29 @@
                 </form>
             </div>
         </div>
-     
-        <button hidden onClick="{location.href='exibeDados.php'}">Mostrar Dados</button>
-         <!-- passar o nome que ele quer excluir, para pesquisar por nome e achar o id ou excluir pelo nome msm. -->
         
 
-         <div class="card mt-5 text-center">
-  <h5 class="card-header">
-  <ul class="nav justify-content-center">
-            <li class="nav-item">
-                <a class="nav-link" href="https:/www.instagram.com/ocanvasdeusabilidade/" target="_blank">
-                    <img class="icons" src="Assets/icons8-instagram.svg">Instagram
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link"href="https://www.facebook.com/ocanvasdeusabilidade/" target="_blank">
-                    <img class="icons" src="Assets/icons8-facebook-novo.svg">Facebook
-                </a>
-            </li>
-        </ul>
-  </h5>
-  <div class="card-body">
-  <a target="_blank" href="https://icons8.com/icon/59813/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-</br>
-  <a target="_blank" href="https://icons8.com/icon/118466/facebook-novo">Facebook</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-  </div>
-</div>
+        <div class="card mt-5 text-center">
+            <h5 class="card-header">
+            <ul class="nav justify-content-center">
+                        <li class="nav-item">
+                            <a class="nav-link" href="https:/www.instagram.com/ocanvasdeusabilidade/" target="_blank">
+                                <img class="icons" src="Assets/icons8-instagram.svg">Instagram
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link"href="https://www.facebook.com/ocanvasdeusabilidade/" target="_blank">
+                                <img class="icons" src="Assets/icons8-facebook-novo.svg">Facebook
+                            </a>
+                        </li>
+                    </ul>
+            </h5>
+            <div class="card-body">
+                <a target="_blank" href="https://icons8.com/icon/59813/instagram">Instagram</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+                </br>
+                <a target="_blank" href="https://icons8.com/icon/118466/facebook-novo">Facebook</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+            </div>
+        </div>
 
 
         </div>
